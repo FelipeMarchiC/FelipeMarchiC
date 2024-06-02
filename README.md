@@ -3,5 +3,6 @@
 - Hello, my name is Felipe, I am brazilian and a beginner in the area of programming, I'm actually studying Software Engineering in the São Paulo Federal Institute. I'm also graduated on aircraft maintenance.
 
 ## Linguagens:
-- HTML, CSS, JavaScript
-- Python, C
+- HTML, CSS, JavaScript.
+- React, NodeJS.
+- Python, C, Java.
