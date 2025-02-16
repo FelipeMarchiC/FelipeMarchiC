@@ -1,6 +1,8 @@
+<!-- Banner Dinâmico -->
 <p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=2E86C1&height=150&section=header&text=🚀%20Bem%20Vindo%20ao%20Meu%20GitHub!&fontSize=30&fontColor=FFFFFF&fontAlignY=35"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=180&section=header&text=Bem%20Vindo!&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=40"/>
 </p>
+
 
 
 <p align="center">
@@ -12,21 +14,11 @@
 ## 📌 Sobre Mim
 
 - 💻 Meu nome é Felipe Gabriel de Marchi, tenho 21 anos e almejo ser desenvolvedor fullstack.
-- 🎓 Atualmente estudo **Engenharia de Software** no Instituto Federal de São Paulo.
+- 🎓 Estudando **Engenharia de Software** no Instituto Federal de São Paulo.
+- 💼 Atualmente trabalhando em Softable Tecnologia Ltda. como Estagiário de Desenvolvedor Backend.
+- 🌍 Minha língua nativa é o português, tenho inglês intermediário e agora quero aprender italiano.
+- 🌐 Interessado em aprender mais sobre Arquitetura de Software, Testes Automatizados e Padrões de Projeto.
 - ✈️ Além disso, sou formado em **Mecânica de Manutenção para Aeronaves**.
-- 🌍 Minha língua nativa é o português, tenho inglês intermediário e agora quero aprender italiano. 
-- ✈️ Além disso, sou formado em **Mecânica de Manutenção para Aeronaves**.
-
----
-
-![Neon Blink](https://readme-typing-svg.herokuapp.com?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=🔴+Veja+meus+projetos!+🔴)
-
-<div align="center">
-  <a href="https://github.com/FelipeMarchiC">
-    <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeMarchiC&show_icons=true&theme=radical&icon_color=FF0000"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeMarchiC&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
 
 ---
 
@@ -56,12 +48,7 @@
 
 ---
 
-## 🌎 Entre em Contato
+## ✨ Entre em Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-marchi-c/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeMarchiC)
 [![E-mail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipem.4work@gmail.com)
-
----
-
-⭐ **Obrigado por visitar meu perfil!** 🚀  
-✨ **Thank you for visiting my profile!** ✨
