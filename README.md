@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header&text=Bem%20Vindo!&fontSize=30&fontColor=FFFFFF"/>
+
 <h1 align="center">👋 Olá, eu sou o Felipe! / Hello, I'm Felipe!</h1>
 
 <p align="center">
