@@ -1,4 +1,4 @@
-<!-- Banner Dinâmico -->
+
 <p align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=180&section=header&text=Bem%20Vindo!&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=40"/>
 </p>
@@ -52,3 +52,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-marchi-c/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeMarchiC)
 [![E-mail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipem.4work@gmail.com)
+
+<p align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=120&section=footer"/>
+</p>
