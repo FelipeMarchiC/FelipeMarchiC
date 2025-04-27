@@ -16,7 +16,7 @@
 - 💻 Meu nome é Felipe Gabriel de Marchi, tenho 21 anos e almejo ser desenvolvedor fullstack.
 - 🎓 Estudando **Engenharia de Software** no Instituto Federal de São Paulo.
 - 💼 Atualmente trabalhando em Softable Tecnologia Ltda. como Estagiário de Desenvolvedor Backend.
-- 🌍 Minha língua nativa é o português, tenho inglês intermediário e agora quero aprender italiano.
+- 🌍 Minha língua nativa é o português, tenho inglês avançado e agora quero aprender italiano.
 - 🌐 Interessado em aprender mais sobre Arquitetura de Software, Testes Automatizados e Padrões de Projeto.
 - ✈️ Além disso, sou formado em **Mecânica de Manutenção para Aeronaves**.
 
